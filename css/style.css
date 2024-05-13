@@ -620,7 +620,7 @@ input {
 @media (max-width:576px) {
     img.curve {
         width:100%;
-        top:-120px;
+        top:-160px;
         height: 160px;
     }
 
