@@ -620,8 +620,8 @@ input {
 @media (max-width:576px) {
     img.curve {
         width:100%;
-        top:-175px;
-        height: 160px;
+        top:-172px;
+        height: 162px;
     }
 
     section {
