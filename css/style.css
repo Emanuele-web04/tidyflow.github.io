@@ -624,6 +624,10 @@ input {
         height: 162px;
     }
 
+    .btn-intro {
+        margin-bottom: 20px;
+    }
+
     section {
         top:-200px;
     }
