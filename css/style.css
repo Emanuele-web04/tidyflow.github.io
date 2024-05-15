@@ -413,7 +413,7 @@ input {
 }
 
 .container-main img, img.productive {
-    width:500px;
+    width:300px;
 }
 
 .ham_menu, .full-menu {
@@ -433,9 +433,6 @@ input {
         top:-235px;
     }
 
-    .container-main img, img.productive {
-        width:500px;
-    }
 
  body {
     background-color: var(--footer-bg);
@@ -443,9 +440,7 @@ input {
 }
 
 @media (max-width:992px) {
-    .container-main img, img.productive {
-        width:350px;
-    }
+
 
     section {
         position: relative;
@@ -685,7 +680,7 @@ input {
     }
 
     .container-main img, img.productive {
-        width:350px;
+        width:100px;
     }
 
     #email {
